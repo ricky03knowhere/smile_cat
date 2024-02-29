@@ -1,0 +1,220 @@
+{
+  "Lecture Advices": [
+    "Libur kuliah gak ngapa2in, rugii dongg!, manfaatkan waktu libur 2 bulan buat belajar ngoding atau buat projek2 jadi nanti projeknya bisa dpake atau dkembangin lagi pas UAS 😎",
+    "Ikut Program Bangkit pas semester 5/6 biar SKS KP (Kerja Praktik) nya di konversi, jadi gak perlu sidang KP (mempercepat kelulusan) 🎓",
+    "Persiapkan Test Ibtitah (Tilawah, Tahfidz, Prak. Ibadah), biar cepet selesai pas di tes sama pembimbingnya 💪",
+    "Ikut test Toefl & Toefa, biar gak test susulan yg jadwal nya gatau kapan 📃"
+  ],
+  "Tools": {
+    "👨‍💻Coding": [{
+        "title": "Bingung belajar ngoding mulai dari mana..? 🤔",
+        "link": "https://roadmap.sh/"
+      },
+      {
+        "title": "Yuuuk belajar ngetik biar cepet ngodingnya ⌨️",
+        "link": "https://monkeytype.com/"
+      },
+      {
+        "title": "Mo Ngoding pke bhasa apapun tpi males insntall2 IDE...? 🥵",
+        "link": "https://replit.com/"
+      },
+      {
+        "title": "Bingung cari data buat aplikasi dari mana...? 🦕",
+        "link": "https://publicapis.dev/"
+      },
+      {
+        "title": "Cheatsheet markdown (MD) buat di Github 😺",
+        "link": "https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet"
+      },
+      {
+        "title": "Ubah data dari tabel ke JSON, html, SQL, xml, dll, ato sebaliknya 🌀",
+        "link": "https://tableconvert.com/"
+      },
+      {
+        "title": "Buat design web lebih bagus dengan pola gelombang 🌊",
+        "link": "https://getwaves.io/"
+      }
+    ],
+    "🌐Web Hosting": [{
+        "title": "Bayar, biar fiturnya lengkap 💸",
+        "link": "https://www.niagahoster.co.id/"
+      },
+      {
+        "title": "Yg gratisan cuma buat tugas ajaa.. 😅",
+        "link": [
+          "https://app.cyclic.sh/",
+          "https://www.netlify.com/",
+          "https://vercel.com/"
+        ]
+      }
+    ],
+    "✍️Scripting (create paper, journal, etc)": [{
+        "title": "Membuat Artikel beserta referensinya 🪶",
+        "link": ["https://www.perplexity.ai/", "https://typeset.io/search", "https://elicit.com/"]
+      },
+      {
+        "title": "Membuat sitasi (referensi) otomatis dari jurnal atau paper 👌",
+        "link": "https://www.scribbr.com/citation/generator/"
+      },
+      {
+        "title": "Membuat resume otomatis (dbaca Igi hasilnya yaa..) ✏️",
+        "link": ["https://resoomer.com/en/", "https://quillbot.com/summarize"]
+      },
+      {
+        "title": "Download jurnal gratis dari website berbayar 🤩",
+        "link": "https://web.telegram.org/k/#@scihubot"
+      },
+      {
+        "title": "Cari berbagai dokumen akademik dari berbagai universitas 📃",
+        "link": "https://www.docsity.com/en/"
+      },
+      {
+        "title": "Memparafrase kalimat biar gak keliatan copas.. 🍃",
+        "link": [
+          "https://quillbot.com/",
+          "https://seomagnifier.com/online-paraphrasing-tool"
+        ]
+      },
+      {
+        "title": "Buat jurnal, paper, skripsi dengan bantuan AI 🤖",
+        "link": ["https://somai.id/", "https://www.writefull.com/"]
+      },
+      {
+        "title": "Suruh AI buat analisis atau ngasih insight dari dokumen pdf ✨",
+        "link": [
+          "Microsoft Edge Copilot AI",
+          "https://www.chatpdf.com/",
+          "https://askyourpdf.com/"
+        ]
+      },
+      {
+        "title": "Buat resume dari berbagai buku, film, podcast, dll 🐜",
+        "link": "https://unsummary.com/"
+      },
+      {
+        "title": "Cari hubungan antar paper/jurnal dengan visualisasi 🌟",
+        "link": "https://www.connectedpapers.com/"
+      }
+    ],
+    "🔢Maths": [{
+        "title": "Ngerjain Soal sulit & langkah2 nya 🪄",
+        "link": ["https://www.mathway.com/Algebra", "https://www.wolframalpha.com/"]
+      },
+      {
+        "title": "Ngerjain operasi matrix sma langkah2 nya 🔮",
+        "link": "https://matrixcalc.org/"
+      },
+      {
+        "title": "Buat Grafik 📉",
+        "link": "https://www.geogebra.org/calculator"
+      },
+      {
+        "title": "Kalkulator & konverter angka2 komputer 🖥️",
+        "link": "https://www.rapidtables.com/convert/number/hex-to-binary.html"
+      },
+      {
+        "title": "K-map (ada di matkul Matematika diskrit) 📚",
+        "link": [
+          "http://www.32x8.com/index.html",
+          "https://getcalc.com/karnaugh-map/4variable-kmap-solver.htm"
+        ]
+      }
+    ],
+    "📑Documents": [{
+        "title": "Ubah format dokumen (docx, ppt, xls, dll) 📂",
+        "link": ["https://www.ilovepdf.com/", "https://pdf2go.com/"]
+      },
+      {
+        "title": "Buat slide presentasi (ppt) otomatis dengan AI 🪄",
+        "link": ["https://gamma app/", "https://tome.app/"]
+      },
+      {
+        "title": "Buat CV dengan template keren 🧙‍♂️",
+        "link": "https://cvdesignr.com/"
+      },
+      {
+        "title": "Edit berbagai dokumen/file dengan AI 🦖",
+        "link": "https://tinywow.com/"
+      },
+      {
+        "title": "Bingung buat rumus di Excel?, suruh AI yg bikin 🔮",
+        "link": "https://formulabot.com/"
+      },
+      {
+        "title": "Suruh AI buat diagram & mindmap 🗺️",
+        "link": "https://www.edrawsoft.com/"
+      },
+      {
+        "title": "Ekstrak teks atau data dari tabel 📑",
+        "link": "https://www.extracttable.com/"
+      },
+      {
+        "title": "Edit PDF langsung tanpa ubah format 📝",
+        "link": "https://online.sodapdf.com/"
+      },
+      {
+        "title": "Buat catatan dari video meeting (Zoom, Gmeet & Teams) 📒",
+        "link": "https://tidv.io/"
+      },
+      {
+        "title": "Ekstrak teks atau transkrip dari video Youtube ▶️",
+        "link": [
+          "https://www.genelify.com/tools/youtube-transcript",
+          "https://anthiago.com/transkrip/"
+        ]
+      }
+    ],
+    "🎬Content Creators": [{
+        "title": "Edit foto mirip Adobe Photoshop di browser 🖼️",
+        "link": "https://www.photopea.com/"
+      },
+      {
+        "title": "Pilih warna buat design biar gak ngasal 🎨",
+        "link": "https://color.adobe.com/create/color-wheel"
+      },
+      {
+        "title": "Rekam layar & ubah jadi format GIF (gambar bergerak) 🎦",
+        "link": [
+          "https://github.com/NickeManarin/ScreenToGif/releases/download/2.40.1/ScreenToGif.2.40.1.Setup.x64.msi",
+          "https://ezgif.com/maker"
+        ]
+      },
+      {
+        "title": "Ubah foto yg blur jadi lebih jelas 🪄",
+        "link": "https://replicate.com/nightmareai/real-esrgan"
+      },
+      {
+        "title": "Edit foto & Video dengan AI 🧙‍♂️",
+        "link": "https://runwayml.com/"
+      },
+      {
+        "title": "Buat konten untuk sosmed dengan AI 🔮",
+        "link": "https://predis.ai/"
+      },
+      {
+        "title": "Edit foto dengan AI 💫",
+        "link": [
+          "https://www.capcut.com/id-id/",
+          "https://www.fotor.com/features/remove-object-from-photo/"
+        ]
+      },
+      {
+        "title": "Video editor langsung di browser 🎬",
+        "link": [
+          "https://app.pictory.ai/",
+          "https://www.capcut.com/id-id/",
+          "https://www.veed.io/",
+          "https://app.simplified.com/"
+        ]
+      },
+      {
+        "title": "Hapus objek yg ada di foto dengan AI 🧼",
+        "link": [
+          "https://www.fotor.com/features/remove-object-from-photo/",
+          "https://snapedit.app/",
+          "https://cleanup.pictures/"
+        ]
+      }
+    ]
+  }
+}
