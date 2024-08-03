@@ -20,14 +20,8 @@
               <div class="col-md-6">
                 <label for="batch">Angkatan <sup class="text-danger">*</sup></label>
                 <select class="form-select" aria-label="Default select example" id="batch" required name="angkatan">
-                  <option selected>Pilih Angkatan</option>
-                  <option value="2017">2017</option>
-                  <option value="2018">2018</option>
-                  <option value="2019">2019</option>
-                  <option value="2020">2020</option>
-                  <option value="2021">2021</option>
-                  <option value="2022">2022</option>
-                  <option value="2023">2023</option>
+                  <option selected value="">Pilih Angkatan</option>
+                  <option :value="year" v-for="(year, i) in getYears" :key="i">{{ year }}</option>
                 </select>
               </div>
               <div class="col-md-6">
@@ -73,6 +67,10 @@
 <script>
 export default {
   name: 'FeedbackSection',
+  data: function () {
+    const getYear = new Date().getFullYear()
+    return { getYears: [...Array(6)].map((v, i) => getYear - i) }
+  },
   mounted: function () {
     // <<--- Feedback Form Handler --->>
     const scriptURL =
@@ -111,7 +109,7 @@ export default {
         })
         .catch((error) => console.error("Error!", error.message));
     });
-  }
+  },
 }
 </script>
 
