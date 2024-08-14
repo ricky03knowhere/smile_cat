@@ -89,6 +89,8 @@
       {
         "title": "Suruh AI buat analisis atau ngasih insight dari dokumen pdf ✨",
         "link": [
+          "https://chatgpt.com/",
+          "https://claude.ai/",
           "Microsoft Edge Copilot AI",
           "https://www.chatpdf.com/",
           "https://askyourpdf.com/"
@@ -129,7 +131,7 @@
     ],
     "📑Documents": [{
         "title": "Ubah format dokumen (docx, ppt, xls, dll) 📂",
-        "link": ["https://www.ilovepdf.com/", "https://pdf2go.com/"]
+        "link": ["https://www.ilovepdf.com/", "https://pdf2go.com/", "https://www.freefileconvert.com/"]
       },
       {
         "title": "Buat slide presentasi (ppt) otomatis dengan AI 🪄",

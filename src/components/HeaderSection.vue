@@ -1,10 +1,11 @@
 <template>
-  <h1 class="text-center">Lecture Tools & Advices 📝</h1>
+  <h1 class="text-center">{{ title }}</h1>
 </template>
 
 <script>
 export default {
   name: "HeaderSection",
+  props: ['title']
 };
 </script>
 
